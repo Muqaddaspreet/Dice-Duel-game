@@ -30,6 +30,9 @@
 3. **Switch Players 🔄** - If you roll a 1, your turn ends automatically.
 4. **Win the Game 🏆** - First to reach 100 points wins!
 
+## 🌍 Live Demo
+🔗 **Play Dice Duel Game Here:** [Dice Duel Game](https://dice-duel-games.netlify.app/)
+
 ## 📂 Folder Structure
 ```
 📦 Dice-Duel-Game
