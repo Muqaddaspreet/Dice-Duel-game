@@ -15,11 +15,11 @@
 - JavaScript
 
 ## 📸 Screenshots
-### 🎮 Gameplay
-![Gameplay Screen](./images/Gameplay-Screen.png)
-
 ### 🆕 New Game
 ![New Game Screen](./images/New-Screen.png)
+
+### 🎮 Gameplay
+![Gameplay Screen](./images/Gameplay-Screen.png)
 
 ### 🏆 Winning Screen
 ![Winning Screen](./images/Winning-Screen.png)
@@ -62,4 +62,7 @@
 3. Open `index.html` in your browser to start playing.
 
 ## 📬 Contact
-For any queries or contributions, feel free to reach out via [GitHub Issues](https://github.com/Muqaddaspreet/Dice-Duel-game/issues).
+For any queries or contributions, feel free to reach out via
+- 👨‍💻 **Muqaddaspreet Singh Bhatia**
+- 📫 Email: *(muqaddaspreetsb@gmail.com)*
+- 🌐 GitHub: [Muqaddaspreet](https://github.com/Muqaddaspreet)
